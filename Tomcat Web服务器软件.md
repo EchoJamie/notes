@@ -81,7 +81,7 @@
 
 ### Tomcat目录结构
 
-![Tomcat目录](imgs/Tomcat目录结构.jpg)
+![Tomcat目录](imgs/Tomcat%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.jpg)
 
 | 文件夹名称 | 存放文件作用              |
 | ---------- | ------------------------- |
